@@ -7,12 +7,14 @@ A project I started to develop because I couldn't find a football simulation on 
 - [ ] Make it run on Android
 - [x] Basic football simulation
 - [x] Show the events happening in the match
-- [ ] Make a scene on end of the game because it's not good
+- [ ] Make an ending because it makes 0 sense rn
+- [ ] More events other than goal
 - [ ] Match Half
 - [ ] Team picker
 - [ ] Make it show score of match
 - [ ] Offside system
 - [ ] Photo of pitch on background
+- [ ] Team squad for both teams
 - [ ] Events list on middle down Squad list on left and right
 - [ ] Match Start, Half, Finish Sounds
 - [ ] Main menu
